@@ -1,9 +1,9 @@
 {
-  "name": "humanmade/network-media-library",
+  "name": "hdw/network-media-library",
   "type": "wordpress-muplugin",
   "description": "Network Media Library provides a central media library that's shared across all sites on the Multisite network.",
   "keywords": ["wordpress", "plugin", "multisite"],
-  "homepage": "https://github.com/chromatixAU/network-media-library",
+  "homepage": "https://github.com/hdw-werbeagentur/network-media-library",
   "license": "MIT",
   "authors": [
     {
